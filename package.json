@@ -1,0 +1,12 @@
+{
+  "name": "invert-hex-colors",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node main.js"
+  },
+  "keywords": [],
+  "author": "Astralite",
+  "license": "ISC"
+}
